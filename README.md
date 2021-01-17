@@ -1,5 +1,5 @@
 # Glow🌈
 
-Make Glow with HTML5 and JS
+Make Glow with HTML5 Canvas and JS
 
 ## Beautiful🌈🌈
